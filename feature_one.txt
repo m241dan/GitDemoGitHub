@@ -2,3 +2,5 @@ This is a dummy file for what could be considered feature one.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu elit imperdiet, posuere sem non, venenatis ipsum. Nunc tincidunt in ipsum sit amet auctor. Praesent ut massa nec nulla facilisis fringilla quis sit amet ipsum. Etiam imperdiet arcu vel lorem ultricies hendrerit nec eget ipsum. Mauris pulvinar at purus non ultricies. Nulla facilisi. Donec in dolor congue, varius turpis quis, lacinia magna.
 
+Fusce dignissim fringilla pretium. Mauris congue fringilla fermentum. Vestibulum non ultricies arcu, eu cursus lacus. Aliquam congue arcu non velit venenatis volutpat. Maecenas vulputate ultrices tellus, non tincidunt dui volutpat sit amet. Vivamus placerat eget lacus eget ultricies. Donec eget massa auctor, ornare purus non, commodo dui. Ut non rhoncus quam. Aliquam aliquet viverra dolor, eget accumsan ante faucibus non. Nullam et sollicitudin nibh, non posuere ligula. Integer eu dui arcu. Quisque nec purus quis massa hendrerit pharetra id et orci.
+
