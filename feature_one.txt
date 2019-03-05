@@ -1,1 +1,4 @@
 This is a dummy file for what could be considered feature one.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu elit imperdiet, posuere sem non, venenatis ipsum. Nunc tincidunt in ipsum sit amet auctor. Praesent ut massa nec nulla facilisis fringilla quis sit amet ipsum. Etiam imperdiet arcu vel lorem ultricies hendrerit nec eget ipsum. Mauris pulvinar at purus non ultricies. Nulla facilisi. Donec in dolor congue, varius turpis quis, lacinia magna.
+
